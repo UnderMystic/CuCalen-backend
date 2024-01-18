@@ -1,0 +1,16 @@
+conf:
+  host: "0.0.0.0"
+  port: 5000
+  secure_token: ""
+
+db:
+  dbhost: "0.0.0.0"
+  user: ""
+  pass: ""
+  dbname: ""
+  port: 3306
+
+#Do not touch
+#(Dev, Pro)
+env: 
+  type: "Dev"
